@@ -1,0 +1,5 @@
+{
+    "cmake.debugConfig": {
+        "args": ["0x12","12"]
+    }
+}
